@@ -23,5 +23,3 @@ class Solution:
                 itr = itr.next
             k = k-1
         return head
-            
-
